@@ -8,9 +8,9 @@
 
 ## ↗️ Live Demo: [maverick-challenge-ai-health-dwwt.onrender.com](https://maverick-challenge-ai-health-dwwt.onrender.com/)
 <div align="center" style="display: flex; flex-direction: column; border: none; padding: 0; margin: 0; line-height: 0;">
-  <img src="https://github.com/user-attachments/assets/05fbde38-1700-4355-913c-0cc8829418a8" alt="Screenshot 1" style="width: 100%; display: block; margin: 0; padding: 0; border: none;">
-  <img src="https://github.com/user-attachments/assets/103a6dd9-1613-4668-8c17-07f00cc3a08d" alt="Screenshot 2" style="width: 100%; display: block; margin: 0; padding: 0; border: none;">
-  <img src="https://github.com/user-attachments/assets/2235e193-2ef5-4aee-999e-5a4ed0d2a733" alt="Screenshot 3" style="width: 100%; display: block; margin: 0; padding: 0; border: none;">
+  <img src="https://github.com/user-attachments/assets/8f732f0a-5800-4a02-9fdc-7efb26911267" alt="Screenshot 1" style="width: 100%; display: block; margin: 0; padding: 0; border: none;">
+  <img src="https://github.com/user-attachments/assets/15e07232-6740-486e-96bf-a11c8860756a" alt="Screenshot 2" style="width: 100%; display: block; margin: 0; padding: 0; border: none;">
+  <img src="https://github.com/user-attachments/assets/7d350d73-3986-4abb-8a04-086a810f38a2" alt="Screenshot 3" style="width: 100%; display: block; margin: 0; padding: 0; border: none;">
 </div>
 
 This project is a submission for the **Maverick Effect AI Challenge**, addressing the problem statement: **"AI for Inclusive Healthcare Access"**.
